@@ -3,3 +3,4 @@ E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Entities\bin\Debug\ClothesBAZAR.Entities.pdb
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Entities\obj\Debug\ClothesBAZAR.Entities.csproj.CoreCompileInputs.cache
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Entities\obj\Debug\ClothesBAZAR.Entities.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Entities\obj\Debug\ClothesBAZAR.Entities.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Entities\obj\Debug\ClothesBAZAR.Entities.csprojAssemblyReference.cache

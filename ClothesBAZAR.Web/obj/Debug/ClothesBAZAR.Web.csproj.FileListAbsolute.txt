@@ -108,8 +108,6 @@ E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\System.Web.Razor.resources.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\System.Web.WebPages.resources.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\System.Web.WebPages.Deployment.resources.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\System.Web.WebPages.Razor.resources.dll
-E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\EntityFramework.resources.dll
-E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\EntityFramework.SqlServer.resources.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
@@ -124,3 +122,12 @@ E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\obj\Debug\ClothesBAZAR.Web.csproj.CoreCo
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\obj\Debug\ClothesBAZAR.Web.csproj.CopyComplete
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\obj\Debug\ClothesBAZAR.Web.dll
 E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\obj\Debug\ClothesBAZAR.Web.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothBAZAR.Database.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothesBAZAR.Entities.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothBAZAR.Database.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothBAZAR.Database.dll.config
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothesBAZAR.Entities.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\obj\Debug\ClothesBAZAR.Web.csprojAssemblyReference.cache
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothesBAZAR.service.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothesBAZAR.service.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.Web\bin\ClothesBAZAR.service.dll.config

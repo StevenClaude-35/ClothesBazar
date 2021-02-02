@@ -1,0 +1,17 @@
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothesBAZAR.service.dll.config
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothesBAZAR.service.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothesBAZAR.service.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothBAZAR.Database.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothesBAZAR.Entities.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\EntityFramework.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothBAZAR.Database.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothBAZAR.Database.dll.config
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\ClothesBAZAR.Entities.pdb
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\EntityFramework.xml
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\obj\Debug\ClothesBAZAR.service.csprojAssemblyReference.cache
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\obj\Debug\ClothesBAZAR.service.csproj.CoreCompileInputs.cache
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\obj\Debug\ClothesBAZAR.service.csproj.CopyComplete
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\obj\Debug\ClothesBAZAR.service.dll
+E:\ASPNET\ClothesBAZAR\ClothesBAZAR.service\obj\Debug\ClothesBAZAR.service.pdb
