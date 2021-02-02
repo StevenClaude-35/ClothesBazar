@@ -1,0 +1,16 @@
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\ClothBAZAR.Database.dll.config
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\ClothBAZAR.Database.dll
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\ClothBAZAR.Database.pdb
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\ClothesBAZAR.Entities.dll
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\EntityFramework.dll
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\ClothesBAZAR.Entities.pdb
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\EntityFramework.xml
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.csprojAssemblyReference.cache
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.csproj.CoreCompileInputs.cache
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.csproj.CopyComplete
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.dll
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.pdb
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.Migrations.InitialCreate.resources
+E:\ASPNET\ClothesBAZAR\ClothBAZAR.Database\obj\Debug\ClothBAZAR.Database.csproj.GenerateResource.cache
